@@ -17,7 +17,7 @@
           "name": "file",
           "takesValue": true,
           "index": 1,
-          "required": true
+          "required": false
         }
       ]
     },
